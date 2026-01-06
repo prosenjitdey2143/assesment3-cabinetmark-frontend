@@ -428,7 +428,7 @@ nav,
   transition: all 0.2s ease;
 }
 
-.footer-links:hover{
+.footer-links:hover {
   transform: scale(1.2);
 }
 .footer-sec ul li {
@@ -465,19 +465,16 @@ nav,
 .footer-social-links ul li {
   margin-right: 16px;
   color: var(--color-body);
-  
 }
-
 
 .footer-link-items i {
   font-size: 16px;
   color: var(--heading-color);
   transition: all 0.3s ease;
 }
-.footer-link-items i:hover{
+.footer-link-items i:hover {
   transform: scale(1.2);
-} 
-
+}
 
 .footer-bottom {
   text-align: center;
@@ -530,10 +527,10 @@ nav,
 }
 
 @media screen and (max-width: 992px) {
-   .title-1 {
+  .title-1 {
     font-size: 42px;
   }
-  .title-2{
+  .title-2 {
     font-size: 34px;
   }
   .col-3 {
@@ -577,12 +574,11 @@ nav,
     max-width: 200px;
   }
   .bnr-sec .bnr-btn {
-    
     padding: 19px 28px 18px 29px;
     font-size: 16px;
     letter-spacing: 2px;
   }
-   .title-2 {
+  .title-2 {
     font-size: 24px;
   }
 
@@ -599,7 +595,7 @@ nav,
   .title-1 {
     font-size: 33px;
   }
-  .title-2{
+  .title-2 {
     font-size: 24px;
   }
 
@@ -607,7 +603,7 @@ nav,
     font-size: 10px;
   }
 
-   .bnr-btn {
+  .bnr-btn {
     padding: 15px;
     letter-spacing: 5px;
     font-size: 12px;
@@ -624,7 +620,7 @@ nav,
   .footer-sec {
     padding: 60px 0 20px;
   }
- 
+
   .footer-sec .footer-heading::after {
     left: 50%;
     transform: translateX(-50%);
