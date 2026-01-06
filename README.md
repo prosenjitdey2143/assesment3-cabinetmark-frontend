@@ -13,5 +13,5 @@ Fully responsive design (Desktop, Tablet, Mobile)
 
 
   ## 🚀 Live Demo
-🔗 https://yourusername.github.io/cabinetmark-frontend/
+🔗 (https://prosenjitdey2143.github.io/assesment3-cabinetmark-frontend/)
 
